@@ -1,20 +1,13 @@
-## श्रीरामचरितमानस
+## Sanatan Philosophy
 
-- [सम्पूर्ण रामचरितमानस अर्थ सहित भाग - 1](https://youtu.be/5DYV6iZw57w?si=5fQ7ToAIIr8q_Wzv)
+## Srimad Bhagavad Gita (श्रीमद्भगवद्गीता)
 
-## श्रीमद्भगवद्गीता
+- Practical Book
 
-## नामजाप
+## Brahma Sutra (ब्रह्मसूत्र)
 
+- Logical Book
 
+## Upanishad (उपनिषद)
 
-
-
-
-
-
-
-
-
-
-
+- Theoretical Book

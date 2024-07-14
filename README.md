@@ -1,13 +1,14 @@
-## Sanatan Philosophy
+# Sanatan Philosophy
 
-## Srimad Bhagavad Gita (श्रीमद्भगवद्गीता)
+## Syllabus
 
-- Practical Book
+1. The Basic Structure of Sanatan Philosophy
+2. Vedic Routine for your daily life
+3. Brahmacharya
 
-## Brahma Sutra (ब्रह्मसूत्र)
 
-- Logical Book
+## Ancient Scriptures 
 
-## Upanishad (उपनिषद)
-
-- Theoretical Book
+* Srimad Bhagavad Gita (श्रीमद्भगवद्गीता) - Practical Book
+* Brahma Sutra (ब्रह्मसूत्र) - Logical Book
+* Upanishad (उपनिषद) - Theoretical Book
